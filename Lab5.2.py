@@ -14,6 +14,6 @@ def cash(p,m):
 
 n = int(input("Enter number of thing = "))
 print("Price + Vat 7 = %.2f" % Ecom(n))
-p = % Ecom(n)
+p = Ecom(n)
 m = float(input ("Enter money = "))
 print("Cash = %.2f" %cash(m))
